@@ -1,4 +1,4 @@
-(librepcb_library 8ba83e8b-46b5-45e9-81c4-1afee9152e0c
+(librepcb_library dd15ee4f-dbac-42a6-aa61-4fbcb8ff2181
  (name "Panasonic")
  (description "Devices by Panasonic (inofficial)")
  (keywords "panasonic")
