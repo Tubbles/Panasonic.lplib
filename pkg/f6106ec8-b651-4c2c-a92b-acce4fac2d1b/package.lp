@@ -3,7 +3,7 @@
  (description "Panasonic ALQ series (form C) THT relay.\n\nNote that the pad drills are slightly smaller than recommended in the datasheet since with the recommended drill diameters the relay has way too much clearance and thus could be mounted quite skewed.")
  (keywords "panasonic,alq,lq,relay,spdt")
  (author "U. Bruhin")
- (version "0.3")
+ (version "0.4")
  (created 2019-10-23T18:34:14Z)
  (deprecated false)
  (generated_by "")

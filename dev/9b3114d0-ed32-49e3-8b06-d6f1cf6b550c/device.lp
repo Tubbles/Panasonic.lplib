@@ -3,7 +3,7 @@
  (description "TX-S series DPDT relay with surface mount package, 2-coil latching type.\n\nThe relay is set when a pulse is applied to the set coil and reset when a pulse is applied to the reset coil.\n\nDatasheet: https://www.panasonic-electric-works.com/pew/eu/downloads/ds_61022_en_txs.pdf")
  (keywords "txs,tx-s,smt,panasonic,relay,latching,2-coil,dpdt")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2019-05-11T15:08:42Z)
  (deprecated false)
  (generated_by "")

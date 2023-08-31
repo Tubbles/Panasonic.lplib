@@ -3,7 +3,7 @@
  (description "TX-S series DPDT relay with surface mount package, single coil type.")
  (keywords "txs,tx-s,smt,panasonic,relay,single-coil,1-coil,dpdt")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2019-04-19T18:57:23Z)
  (deprecated false)
  (generated_by "")

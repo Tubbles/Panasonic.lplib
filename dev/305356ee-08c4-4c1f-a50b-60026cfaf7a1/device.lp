@@ -3,7 +3,7 @@
  (description "Panasonic LQ series (form C) THT relay SPDT.\n\nDatasheet: https://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_lq.pdf")
  (keywords "panasonic,alq,lq,relay,spdt")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2019-10-23T18:46:49Z)
  (deprecated false)
  (generated_by "")

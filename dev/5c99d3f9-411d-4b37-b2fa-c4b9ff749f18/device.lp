@@ -3,7 +3,7 @@
  (description "TX-S series DPDT relay with surface mount package, 1-coil non-latching single-side stable type.\n\nDatasheet: https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/4512")
  (keywords "txs,tx-s,smt,panasonic,relay,non-latching,dpdt")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2019-05-09T22:09:13Z)
  (deprecated false)
  (generated_by "")

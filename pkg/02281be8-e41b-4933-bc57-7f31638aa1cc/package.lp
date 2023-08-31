@@ -3,7 +3,7 @@
  (description "TX-S series DPDT relay with surface mount package, double coil type.")
  (keywords "txs,tx-s,smt,panasonic,relay,double-coil,2-coil,dpdt")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2019-05-09T22:02:26Z)
  (deprecated false)
  (generated_by "")

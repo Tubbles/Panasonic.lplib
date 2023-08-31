@@ -3,7 +3,7 @@
  (description "Devices by Panasonic (unofficial).")
  (keywords "panasonic")
  (author "LibrePCB")
- (version "0.1.2")
+ (version "0.2")
  (created 2019-04-16T20:20:42Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Panasonic.lplib")
